@@ -39,6 +39,9 @@
 | @@    | ɜː  | Llafariad canolog blaen hir                   | word                    |                |
 |       |     | *Open-mid central unrounded vowel long*       |                         |                |
 |       |     |                                               |                         |                |
+| y     | ɨ   | Llafariad uchel canolog canol hir             | cul, ynys               |                |
+|       |     | *Near-close central rounded vowel long*       |                         |                |
+|       |     |                                               |                         |                |
 | yy    | ɨː  | Llafariad uchel caeedig canol hir             | sych, tŷ                |                |
 |       |     | *Near-close back rounded vowel long*          |                         |                |
 |       |     |                                               |                         |                |
