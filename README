@@ -18,16 +18,19 @@ We welcome input from users. Please send email to Sarah Cooper
 (d DOT b DOT jones AT bangor DOT ac DOT uk)
 
 The Bangor Pronouncing Dictionary, in its current and previous
-versions is Copyright (C) 2005-2021 by Bangor University. Use of
+versions is Copyright (C) 2005-2025 by Bangor University. Use of
 this dictionary for any research or commercial purpose is completely
 unrestricted.  If you make use of or redistribute this material we
 request that you acknowledge its origin in your descriptions.
 
 If you add words to or correct words in your version of this 
 dictionary, we would appreciate it if you could send these additions
-and corrections to us (s.cooper@bangor.ac.uk, d.b.jones@bangor.ac.uk) 
-for consideration in a subsequent version. All submissions will be 
-reviewed and approved by the current maintainers at Bangor University.
+and corrections to us for consideration in a subsequent version. 
+We're grateful to the following for their contributions to the 
+current version:
+
+ - Sasha Wanasky
+
 
 
 Ffeiliau | Files 
@@ -44,6 +47,5 @@ cmudict.dict :       Geiriadur ynganu CMUDict gyda trawsgrifiadau ffonetegol ASC
 
 phoneset.md :        Set ffonemau Geiriadur Ynganu Bangor
                      Bangor Pronouncing Dictionary phoneme set
-
 
 
